@@ -1,5 +1,5 @@
 var playlist = {
-  asrtistName : 'songTitle',
+  asrtistName : 'songTitle'
   
 }
 console.log(playlist.name)
